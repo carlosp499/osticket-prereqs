@@ -20,6 +20,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
+-osTicket v1.15.8 (osTicket-v1.15.8.zip)
+
+-PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+-Rewrite Module (rewrite_amd64_en-US.msi)
+
+-PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)
+
+-VC Redistributable (VC_redist.x86.exe)
+
+-MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
 <h2>List of Prerequisites</h2>
 
 - do this
