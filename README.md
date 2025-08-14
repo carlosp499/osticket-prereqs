@@ -36,11 +36,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+-First Step: Download the file osTicket-Installation-Files.zip provided here -> https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+
+-Second step: We need to install/enable IIS (Internet Information Services) in Windows With CGI
+
+- enter control panel on your homescreen -> go to programs and click on "unistall a program" -> Cick check box for IIS and click "+" -> World Wide Services
+
+- go to application development features click "+" -> Check off "CGI"
+
+<img width="645" height="542" alt="Screenshot 2025-08-14 171648" src="https://github.com/user-attachments/assets/05db53f6-f78f-4e29-a122-eac491e9f1a6" />
+
+example of what it should look like
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Third step: go back to the "osTicket-installation-Files", after you get to the files you need to install required software: 
+
+- PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+- Rewrite Module (rewrite_amd64_en-US.msi)
+
+-Fourth Step: next you need to create a folder in the "C-Drive" and call it "PHP"
+
+-Fifth Step: 
 </p>
 <br />
 
