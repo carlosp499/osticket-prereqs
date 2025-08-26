@@ -57,7 +57,27 @@ example of what it should look like
 
 -Fourth Step: next you need to create a folder in the "C-Drive" and call it "PHP"
 
--Fifth Step: 
+-Fifth Step: Once you're in osTicket folder extract php-7.3.8-nts-Win32-VC15-x86.zip into C\PHP folder
+
+-Sixth Step: Afterwards install VC Redist (VC_redist.x86.exe)
+
+-Seventh Step: You Will install the "MYSQL"
+
+-  Then run "mysql-5.5.62-win32.msi"
+
+-  Next choose "typical set up"
+
+-  After install you need to launch "Configuration wizard"
+
+-  Make sure to use standard configuration
+
+-  Next set credentials: username: root, and password: root
+
+-Eight step: you will configure "PHP" in "IIS"
+
+-  Then you'll run IIS manager as an administrator
+
+-  Then go to PHP manager 
 </p>
 <br />
 
