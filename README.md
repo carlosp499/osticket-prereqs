@@ -57,9 +57,9 @@ example of what it should look like
 
 -Fourth Step: next you need to create a folder in the "C-Drive" and call it "PHP"
 
--Fifth Step: Once you're in osTicket folder extract php-7.3.8-nts-Win32-VC15-x86.zip into C\PHP folder
+-Fifth Step: Once you're in osTicket folder extract "php-7.3.8-nts-Win32-VC15-x86.zip" into "C\PHP" folder
 
--Sixth Step: Afterwards install VC Redist (VC_redist.x86.exe)
+-Sixth Step: Afterwards install "VC Redist" (VC_redist.x86.exe)
 
 -Seventh Step: You Will install the "MYSQL"
 
