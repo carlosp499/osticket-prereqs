@@ -77,7 +77,11 @@ example of what it should look like
 
 -  Then you'll run IIS manager as an administrator
 
--  Then go to PHP manager 
+-  Then go to PHP manager
+
+-  You will need to register new php version = browse to php folder inside get “php-cgi”
+
+-  Then you need to reload IIS (STOP and START the server)
 </p>
 <br />
 
@@ -85,8 +89,20 @@ example of what it should look like
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+-Ninth step: You will install osTicket next
+
+-  You need to Unzip osTicket v1.15.8 (osTicket-v1.15.8.zip).
+
+-  Then Copy the upload folder into "C:\inetpub\wwwroot."
+
+-  You will Rename "upload" to "osTicket".
+
+-  You will again Reload IIS (Stop and Start the server).
+
+-  Next you need to open IIS - Default - OsTicket
+
+-  Then Click *Browse :80 to verify the installation. 
 <br />
 
 <p>
