@@ -125,5 +125,22 @@ example of what it should look like
     - enable: php_opache.dll
 -  next just refresh the broswser and double check that they were enabled 
 
+-Step #11: You will configure OsTicket
+- Rename "ost-sampleconfig.php" into "ost-config.php:"
+- Now From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- Then To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Then you need to assign permissions to ost-config.php:
+- Next right click, click on properties, then security, advanced, dissaable inheritance, then remove all.
+- add-select principle-type everyone-check full control
+- continue setting up Osticket in the browser.
+- make your username: Ostktuser
+- your password: password11
+- add your email to receive emails of complaints
+
+-Step #12: you will be setting up "MySQL Database"
+- you will install and open "HeidiSQL" from the OsTicket folder
+- create a new with your username: Root, username: Root
+- connect to the session and then create a database named OsTicket.
+- 
 </p>
 <br /># osticket-prereqs
