@@ -107,8 +107,23 @@ example of what it should look like
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  example of how your OsTicket should look like 
+
+  ----
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+-Step #10: You will need to enable the require PHP extensions
+
+-  ISS -> Sites -> Default Sites -> OsTicket
+-   next double click the "PHP Manager" icon
+-   click on the "enble or dissable an extension" option
+    - enable: php_imap.dll
+    - enable: php_intl.dll
+    - enable: php_opache.dll
+-  next just refresh the broswser and double check that they were enabled 
+
 </p>
 <br /># osticket-prereqs
