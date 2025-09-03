@@ -141,6 +141,14 @@ example of what it should look like
 - you will install and open "HeidiSQL" from the OsTicket folder
 - create a new with your username: Root, username: Root
 - connect to the session and then create a database named OsTicket.
-- 
+- Once you  set up OsTicket on the browser
+- set up MYSQL Databas: OsTicket
+- MySQL Username: root
+- MySQL Password: root
+- Make sure you click "install now"
+
+-Step #13: Access OsTicket
+- head to the loging page: http://localhost/osTicket/scp/login.php
+- remeber Username:Ostktuser, and Password: Password11
 </p>
 <br /># osticket-prereqs
