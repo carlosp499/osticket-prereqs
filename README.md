@@ -108,7 +108,7 @@ example of what it should look like
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
@@ -120,15 +120,24 @@ example of what it should look like
 
 -  You will Rename "upload" to "osTicket".
 
+<img width="1294" height="656" alt="Capture8" src="https://github.com/user-attachments/assets/59233ec3-08b4-4bf8-8f1d-bd77a468b7a0" />
+
+-arrow in red shows where to drag folder
+
 -  You will again Reload IIS (Stop and Start the server).
 
 -  Next you need to open IIS - Default - OsTicket
 
--  Then Click *Browse :80 to verify the installation. 
+-  Then Click *Browse :80 to verify the installation. (shown in red)
+
+<img width="650" height="644" alt="Screenshot 2025-09-25 175302" src="https://github.com/user-attachments/assets/1da28691-8ea3-49a3-a5ac-e03d6f83ca10" />
+
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="649" height="651" alt="Screenshot 2025-09-25 175116" src="https://github.com/user-attachments/assets/2dc63204-c0b2-44e3-8696-18268a96d104" />
+
 
   example of how your OsTicket should look like 
 
@@ -145,6 +154,9 @@ example of what it should look like
     - enable: php_imap.dll
     - enable: php_intl.dll
     - enable: php_opache.dll
+
+<img width="996" height="395" alt="Capture10" src="https://github.com/user-attachments/assets/ec3ca444-382a-4c2f-a73e-ec4a853c9a74" />
+
 -  next just refresh the broswser and double check that they were enabled 
 
 -Step #11: You will configure OsTicket
@@ -169,8 +181,18 @@ example of what it should look like
 - MySQL Password: root
 - Make sure you click "install now"
 
+<img width="927" height="725" alt="Capture11" src="https://github.com/user-attachments/assets/c122a553-88b0-4095-861a-130dadbea9e3" />
+
+-in the end this is how it shouuld look after you succesfully installed everything
+
 -Step #13: Access OsTicket
 - head to the loging page: http://localhost/osTicket/scp/login.php
 - remeber Username:Ostktuser, and Password: Password11
+
+<img width="1835" height="938" alt="Capture12" src="https://github.com/user-attachments/assets/d4b45b68-e94d-4491-98b9-6c5651c967af" />
+
+-How the homescreen looks after you log on 
+
+
 </p>
 <br /># osticket-prereqs
