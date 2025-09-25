@@ -99,9 +99,11 @@ example of what it should look like
 
 -  Then go to PHP manager
 
--  You will need to register new php version = browse to php folder inside get “php-cgi”
+-  You will need to register new php version = browse to php folder inside get “php-cgi”, then click on "okay" 
 
--  Then you need to reload IIS (STOP and START the server)
+<img width="1426" height="751" alt="Capture7" src="https://github.com/user-attachments/assets/4b3fa5b2-f896-447c-8077-96413ef4eca6" />
+
+-  Then you need to reload IIS, go back to the begining right click on OsTicket-VM (STOP and START the server)
 </p>
 <br />
 
