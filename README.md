@@ -55,11 +55,27 @@ example of what it should look like
 
 - Rewrite Module (rewrite_amd64_en-US.msi)
 
+<img width="1123" height="620" alt="Capture" src="https://github.com/user-attachments/assets/e2c802d9-fb7c-42f8-9763-6a1a57e1770a" />
+
+- This is waht the files will look like on your folder (shown circled in blue)
+
 -Fourth Step: next you need to create a folder in the "C-Drive" and call it "PHP"
+
+<img width="1114" height="606" alt="Capture2" src="https://github.com/user-attachments/assets/69f696c2-1f9a-48f5-aed2-48e42801eb27" />
+
+- C:Drive is shown with star/ you will click on "home" and click on new folder and as shown call it "PHP"
 
 -Fifth Step: Once you're in osTicket folder extract "php-7.3.8-nts-Win32-VC15-x86.zip" into "C\PHP" folder
 
+<img width="616" height="454" alt="Capture3" src="https://github.com/user-attachments/assets/e8fd1233-2da7-4ccd-bc84-af1dc4bab152" />
+
+- You will click on teh search bar and type " C:\PHP" it will extract on to the php folder
+
 -Sixth Step: Afterwards install "VC Redist" (VC_redist.x86.exe)
+
+<img width="1126" height="639" alt="Capture5" src="https://github.com/user-attachments/assets/58bfdc91-cca8-467e-b4e0-8758880cceb2" />
+
+-file circled in blue
 
 -Seventh Step: You Will install the "MYSQL"
 
@@ -70,6 +86,10 @@ example of what it should look like
 -  After install you need to launch "Configuration wizard"
 
 -  Make sure to use standard configuration
+
+<img width="523" height="382" alt="Capture6" src="https://github.com/user-attachments/assets/8c6622cc-504e-4a72-ad0a-4e5a1dd460fc" />
+
+-shown in blue bracket
 
 -  Next set credentials: username: root, and password: root
 
